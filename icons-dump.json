@@ -1,0 +1,1484 @@
+{
+    "CornerWedgePart": {
+        "offset": [
+            16,
+            0
+        ]
+    },
+    "UniversalConstraint": {
+        "offset": [
+            1968,
+            0
+        ]
+    },
+    "Configuration": {
+        "offset": [
+            928,
+            0
+        ]
+    },
+    "MeshPart": {
+        "offset": [
+            1168,
+            0
+        ]
+    },
+    "ShirtGraphic": {
+        "offset": [
+            640,
+            0
+        ]
+    },
+    "NumberValue": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "PluginGuiService": {
+        "offset": [
+            736,
+            0
+        ]
+    },
+    "TestService": {
+        "offset": [
+            1088,
+            0
+        ]
+    },
+    "VoiceSource": {
+        "offset": [
+            176,
+            0
+        ]
+    },
+    "JointInstance": {
+        "offset": [
+            544,
+            0
+        ]
+    },
+    "Message": {
+        "offset": [
+            528,
+            0
+        ]
+    },
+    "LocalizationTable": {
+        "offset": [
+            1552,
+            0
+        ]
+    },
+    "Highlight": {
+        "offset": [
+            2128,
+            0
+        ]
+    },
+    "StarterGui": {
+        "offset": [
+            736,
+            0
+        ]
+    },
+    "CustomEventReceiver": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "ValueBase": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "BindableEvent": {
+        "offset": [
+            1072,
+            0
+        ]
+    },
+    "TextButton": {
+        "offset": [
+            816,
+            0
+        ]
+    },
+    "AngularVelocity": {
+        "offset": [
+            1648,
+            0
+        ]
+    },
+    "CylinderHandleAdornment": {
+        "offset": [
+            1744,
+            0
+        ]
+    },
+    "DialogChoice": {
+        "offset": [
+            1008,
+            0
+        ]
+    },
+    "BallSocketConstraint": {
+        "offset": [
+            1376,
+            0
+        ]
+    },
+    "SurfaceSelection": {
+        "offset": [
+            880,
+            0
+        ]
+    },
+    "Sparkles": {
+        "offset": [
+            672,
+            0
+        ]
+    },
+    "BrickColorValue": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "SoundGroup": {
+        "offset": [
+            1360,
+            0
+        ]
+    },
+    "Tool": {
+        "offset": [
+            272,
+            0
+        ]
+    },
+    "Accoutrement": {
+        "offset": [
+            512,
+            0
+        ]
+    },
+    "UITableLayout": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "RocketPropulsion": {
+        "offset": [
+            224,
+            0
+        ]
+    },
+    "Attachment": {
+        "offset": [
+            1296,
+            0
+        ]
+    },
+    "WorldModel": {
+        "offset": [
+            304,
+            0
+        ]
+    },
+    "HopperBin": {
+        "offset": [
+            352,
+            0
+        ]
+    },
+    "PluginDebugService": {
+        "offset": [
+            736,
+            0
+        ]
+    },
+    "LineHandleAdornment": {
+        "offset": [
+            1712,
+            0
+        ]
+    },
+    "GuiMain": {
+        "offset": [
+            752,
+            0
+        ]
+    },
+    "WedgePart": {
+        "offset": [
+            16,
+            0
+        ]
+    },
+    "SelectionBox": {
+        "offset": [
+            864,
+            0
+        ]
+    },
+    "RobloxPluginGuiService": {
+        "offset": [
+            736,
+            0
+        ]
+    },
+    "CylinderMesh": {
+        "offset": [
+            128,
+            0
+        ]
+    },
+    "BodyVelocity": {
+        "offset": [
+            224,
+            0
+        ]
+    },
+    "ImageButton": {
+        "offset": [
+            832,
+            0
+        ]
+    },
+    "PackageLink": {
+        "offset": [
+            1568,
+            0
+        ]
+    },
+    "CylindricalConstraint": {
+        "offset": [
+            1520,
+            0
+        ]
+    },
+    "ReplicatedStorage": {
+        "offset": [
+            1120,
+            0
+        ]
+    },
+    "RemoteEvent": {
+        "offset": [
+            1200,
+            0
+        ]
+    },
+    "Color3Value": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "NetworkClient": {
+        "offset": [
+            256,
+            0
+        ]
+    },
+    "Explosion": {
+        "offset": [
+            576,
+            0
+        ]
+    },
+    "UIPadding": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "ImageLabel": {
+        "offset": [
+            784,
+            0
+        ]
+    },
+    "AlignOrientation": {
+        "offset": [
+            1600,
+            0
+        ]
+    },
+    "Handles": {
+        "offset": [
+            848,
+            0
+        ]
+    },
+    "Smoke": {
+        "offset": [
+            944,
+            0
+        ]
+    },
+    "Status": {
+        "offset": [
+            32,
+            0
+        ]
+    },
+    "Bone": {
+        "offset": [
+            1824,
+            0
+        ]
+    },
+    "SurfaceGui": {
+        "offset": [
+            1024,
+            0
+        ]
+    },
+    "CoreGui": {
+        "offset": [
+            736,
+            0
+        ]
+    },
+    "ColorCorrectionEffect": {
+        "offset": [
+            1328,
+            0
+        ]
+    },
+    "DoubleConstrainedValue": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "NoCollisionConstraint": {
+        "offset": [
+            1680,
+            0
+        ]
+    },
+    "Accessory": {
+        "offset": [
+            512,
+            0
+        ]
+    },
+    "SelectionPointLasso": {
+        "offset": [
+            912,
+            0
+        ]
+    },
+    "UIScale": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "Pants": {
+        "offset": [
+            704,
+            0
+        ]
+    },
+    "CFrameValue": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "LocalizationService": {
+        "offset": [
+            1472,
+            0
+        ]
+    },
+    "SelectionPartLasso": {
+        "offset": [
+            912,
+            0
+        ]
+    },
+    "Actor": {
+        "offset": [
+            1808,
+            0
+        ]
+    },
+    "TerrainRegion": {
+        "offset": [
+            1040,
+            0
+        ]
+    },
+    "ChannelSelectorSoundEffect": {
+        "offset": [
+            1344,
+            0
+        ]
+    },
+    "Players": {
+        "offset": [
+            336,
+            0
+        ]
+    },
+    "UIListLayout": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "VectorForce": {
+        "offset": [
+            1632,
+            0
+        ]
+    },
+    "AnimationController": {
+        "offset": [
+            960,
+            0
+        ]
+    },
+    "VideoFrame": {
+        "offset": [
+            1920,
+            0
+        ]
+    },
+    "StarterPlayer": {
+        "offset": [
+            1264,
+            0
+        ]
+    },
+    "Torque": {
+        "offset": [
+            1648,
+            0
+        ]
+    },
+    "PointLight": {
+        "offset": [
+            208,
+            0
+        ]
+    },
+    "KeyframeMarker": {
+        "offset": [
+            960,
+            0
+        ]
+    },
+    "EqualizerSoundEffect": {
+        "offset": [
+            1344,
+            0
+        ]
+    },
+    "Model": {
+        "offset": [
+            32,
+            0
+        ]
+    },
+    "ConeHandleAdornment": {
+        "offset": [
+            1760,
+            0
+        ]
+    },
+    "LineForce": {
+        "offset": [
+            1616,
+            0
+        ]
+    },
+    "Snap": {
+        "offset": [
+            544,
+            0
+        ]
+    },
+    "CanvasGroup": {
+        "offset": [
+            768,
+            0
+        ]
+    },
+    "ReplicatedFirst": {
+        "offset": [
+            1120,
+            0
+        ]
+    },
+    "StarterPack": {
+        "offset": [
+            320,
+            0
+        ]
+    },
+    "NegateOperation": {
+        "offset": [
+            1152,
+            0
+        ]
+    },
+    "UITextSizeConstraint": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "ArcHandles": {
+        "offset": [
+            896,
+            0
+        ]
+    },
+    "CustomEvent": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "ChatInputBarConfiguration": {
+        "offset": [
+            2272,
+            0
+        ]
+    },
+    "IntValue": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "Texture": {
+        "offset": [
+            160,
+            0
+        ]
+    },
+    "IKControl": {
+        "offset": [
+            848,
+            0
+        ]
+    },
+    "Script": {
+        "offset": [
+            96,
+            0
+        ]
+    },
+    "WireframeHandleAdornment": {
+        "offset": [
+            1808,
+            0
+        ]
+    },
+    "PlaneConstraint": {
+        "offset": [
+            2144,
+            0
+        ]
+    },
+    "ImageHandleAdornment": {
+        "offset": [
+            1728,
+            0
+        ]
+    },
+    "Hat": {
+        "offset": [
+            720,
+            0
+        ]
+    },
+    "RayValue": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "RenderingTest": {
+        "offset": [
+            80,
+            0
+        ]
+    },
+    "DepthOfFieldEffect": {
+        "offset": [
+            1328,
+            0
+        ]
+    },
+    "Plugin": {
+        "offset": [
+            1376,
+            0
+        ]
+    },
+    "HumanoidDescription": {
+        "offset": [
+            1664,
+            0
+        ]
+    },
+    "SurfaceAppearance": {
+        "offset": [
+            160,
+            0
+        ]
+    },
+    "UIPageLayout": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "SunRaysEffect": {
+        "offset": [
+            1328,
+            0
+        ]
+    },
+    "BoolValue": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "DistortionSoundEffect": {
+        "offset": [
+            1344,
+            0
+        ]
+    },
+    "BloomEffect": {
+        "offset": [
+            1328,
+            0
+        ]
+    },
+    "Keyframe": {
+        "offset": [
+            960,
+            0
+        ]
+    },
+    "BlurEffect": {
+        "offset": [
+            1328,
+            0
+        ]
+    },
+    "FaceControls": {
+        "offset": [
+            2064,
+            0
+        ]
+    },
+    "WrapTarget": {
+        "offset": [
+            2032,
+            0
+        ]
+    },
+    "ViewportFrame": {
+        "offset": [
+            832,
+            0
+        ]
+    },
+    "ServerScriptService": {
+        "offset": [
+            1136,
+            0
+        ]
+    },
+    "BillboardGui": {
+        "offset": [
+            1024,
+            0
+        ]
+    },
+    "TremoloSoundEffect": {
+        "offset": [
+            1344,
+            0
+        ]
+    },
+    "TerrainDetail": {
+        "offset": [
+            2304,
+            0
+        ]
+    },
+    "UnionOperation": {
+        "offset": [
+            1168,
+            0
+        ]
+    },
+    "MarketplaceService": {
+        "offset": [
+            736,
+            0
+        ]
+    },
+    "RemoteFunction": {
+        "offset": [
+            1184,
+            0
+        ]
+    },
+    "Team": {
+        "offset": [
+            384,
+            0
+        ]
+    },
+    "UIStroke": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "FlangeSoundEffect": {
+        "offset": [
+            1344,
+            0
+        ]
+    },
+    "Dialog": {
+        "offset": [
+            992,
+            0
+        ]
+    },
+    "BoxHandleAdornment": {
+        "offset": [
+            1776,
+            0
+        ]
+    },
+    "Beam": {
+        "offset": [
+            1536,
+            0
+        ]
+    },
+    "BodyAngularVelocity": {
+        "offset": [
+            224,
+            0
+        ]
+    },
+    "Part": {
+        "offset": [
+            16,
+            0
+        ]
+    },
+    "GuiButton": {
+        "offset": [
+            832,
+            0
+        ]
+    },
+    "ScreenGui": {
+        "offset": [
+            752,
+            0
+        ]
+    },
+    "Animator": {
+        "offset": [
+            960,
+            0
+        ]
+    },
+    "SpawnLocation": {
+        "offset": [
+            400,
+            0
+        ]
+    },
+    "NumberPose": {
+        "offset": [
+            960,
+            0
+        ]
+    },
+    "StarterCharacterScripts": {
+        "offset": [
+            1248,
+            0
+        ]
+    },
+    "SphereHandleAdornment": {
+        "offset": [
+            1792,
+            0
+        ]
+    },
+    "Teams": {
+        "offset": [
+            368,
+            0
+        ]
+    },
+    "MaterialService": {
+        "offset": [
+            2096,
+            0
+        ]
+    },
+    "StandalonePluginScripts": {
+        "offset": [
+            1248,
+            0
+        ]
+    },
+    "BodyThrust": {
+        "offset": [
+            224,
+            0
+        ]
+    },
+    "BodyPosition": {
+        "offset": [
+            224,
+            0
+        ]
+    },
+    "Sky": {
+        "offset": [
+            448,
+            0
+        ]
+    },
+    "BodyGyro": {
+        "offset": [
+            224,
+            0
+        ]
+    },
+    "PathfindingModifier": {
+        "offset": [
+            2048,
+            0
+        ]
+    },
+    "WrapLayer": {
+        "offset": [
+            2016,
+            0
+        ]
+    },
+    "PrismaticConstraint": {
+        "offset": [
+            1408,
+            0
+        ]
+    },
+    "Motor6D": {
+        "offset": [
+            1696,
+            0
+        ]
+    },
+    "ForceField": {
+        "offset": [
+            592,
+            0
+        ]
+    },
+    "Frame": {
+        "offset": [
+            768,
+            0
+        ]
+    },
+    "UIAspectRatioConstraint": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "ClickDetector": {
+        "offset": [
+            656,
+            0
+        ]
+    },
+    "RodConstraint": {
+        "offset": [
+            1440,
+            0
+        ]
+    },
+    "Folder": {
+        "offset": [
+            1232,
+            0
+        ]
+    },
+    "Shirt": {
+        "offset": [
+            688,
+            0
+        ]
+    },
+    "SlidingBallConstraint": {
+        "offset": [
+            1408,
+            0
+        ]
+    },
+    "FlagStand": {
+        "offset": [
+            624,
+            0
+        ]
+    },
+    "ModuleScript": {
+        "offset": [
+            1216,
+            0
+        ]
+    },
+    "Clouds": {
+        "offset": [
+            448,
+            0
+        ]
+    },
+    "ChorusSoundEffect": {
+        "offset": [
+            1344,
+            0
+        ]
+    },
+    "Platform": {
+        "offset": [
+            560,
+            0
+        ]
+    },
+    "AdGui": {
+        "offset": [
+            2320,
+            0
+        ]
+    },
+    "SkateboardPlatform": {
+        "offset": [
+            560,
+            0
+        ]
+    },
+    "Seat": {
+        "offset": [
+            560,
+            0
+        ]
+    },
+    "EchoSoundEffect": {
+        "offset": [
+            1344,
+            0
+        ]
+    },
+    "IntConstrainedValue": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "BlockMesh": {
+        "offset": [
+            128,
+            0
+        ]
+    },
+    "PitchShiftSoundEffect": {
+        "offset": [
+            1344,
+            0
+        ]
+    },
+    "PlayerGui": {
+        "offset": [
+            736,
+            0
+        ]
+    },
+    "AnimationTrack": {
+        "offset": [
+            960,
+            0
+        ]
+    },
+    "TextLabel": {
+        "offset": [
+            800,
+            0
+        ]
+    },
+    "ReverbSoundEffect": {
+        "offset": [
+            1344,
+            0
+        ]
+    },
+    "Debris": {
+        "offset": [
+            480,
+            0
+        ]
+    },
+    "Constraint": {
+        "offset": [
+            1376,
+            0
+        ]
+    },
+    "MaterialVariant": {
+        "offset": [
+            2080,
+            0
+        ]
+    },
+    "ProximityPrompt": {
+        "offset": [
+            1984,
+            0
+        ]
+    },
+    "RigidConstraint": {
+        "offset": [
+            2160,
+            0
+        ]
+    },
+    "ParticleEmitter": {
+        "offset": [
+            1280,
+            0
+        ]
+    },
+    "TextChannel": {
+        "offset": [
+            2240,
+            0
+        ]
+    },
+    "Lighting": {
+        "offset": [
+            208,
+            0
+        ]
+    },
+    "Sound": {
+        "offset": [
+            176,
+            0
+        ]
+    },
+    "StringValue": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "ObjectValue": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "CharacterMesh": {
+        "offset": [
+            960,
+            0
+        ]
+    },
+    "BodyForce": {
+        "offset": [
+            224,
+            0
+        ]
+    },
+    "Camera": {
+        "offset": [
+            80,
+            0
+        ]
+    },
+    "Hint": {
+        "offset": [
+            528,
+            0
+        ]
+    },
+    "NetworkServer": {
+        "offset": [
+            240,
+            0
+        ]
+    },
+    "Backpack": {
+        "offset": [
+            320,
+            0
+        ]
+    },
+    "Light": {
+        "offset": [
+            208,
+            0
+        ]
+    },
+    "StarterPlayerScripts": {
+        "offset": [
+            1248,
+            0
+        ]
+    },
+    "LinearVelocity": {
+        "offset": [
+            2112,
+            0
+        ]
+    },
+    "TextChatService": {
+        "offset": [
+            2288,
+            0
+        ]
+    },
+    "TextSource": {
+        "offset": [
+            2224,
+            0
+        ]
+    },
+    "SoundService": {
+        "offset": [
+            496,
+            0
+        ]
+    },
+    "Atmosphere": {
+        "offset": [
+            448,
+            0
+        ]
+    },
+    "Plane": {
+        "offset": [
+            2144,
+            0
+        ]
+    },
+    "BindableFunction": {
+        "offset": [
+            1056,
+            0
+        ]
+    },
+    "PlayerScripts": {
+        "offset": [
+            1248,
+            0
+        ]
+    },
+    "TouchTransmitter": {
+        "offset": [
+            592,
+            0
+        ]
+    },
+    "Trail": {
+        "offset": [
+            1488,
+            0
+        ]
+    },
+    "Speaker": {
+        "offset": [
+            176,
+            0
+        ]
+    },
+    "Animation": {
+        "offset": [
+            960,
+            0
+        ]
+    },
+    "RopeConstraint": {
+        "offset": [
+            1424,
+            0
+        ]
+    },
+    "LocalScript": {
+        "offset": [
+            288,
+            0
+        ]
+    },
+    "TextChatCommand": {
+        "offset": [
+            2208,
+            0
+        ]
+    },
+    "VehicleSeat": {
+        "offset": [
+            560,
+            0
+        ]
+    },
+    "Vector3Value": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "NetworkReplicator": {
+        "offset": [
+            464,
+            0
+        ]
+    },
+    "Chat": {
+        "offset": [
+            528,
+            0
+        ]
+    },
+    "ServerStorage": {
+        "offset": [
+            1104,
+            0
+        ]
+    },
+    "VoiceChatService": {
+        "offset": [
+            2176,
+            0
+        ]
+    },
+    "Workspace": {
+        "offset": [
+            304,
+            0
+        ]
+    },
+    "SpotLight": {
+        "offset": [
+            208,
+            0
+        ]
+    },
+    "SelectionSphere": {
+        "offset": [
+            864,
+            0
+        ]
+    },
+    "TrussPart": {
+        "offset": [
+            16,
+            0
+        ]
+    },
+    "StarterGear": {
+        "offset": [
+            320,
+            0
+        ]
+    },
+    "CompressorSoundEffect": {
+        "offset": [
+            1344,
+            0
+        ]
+    },
+    "CorePackages": {
+        "offset": [
+            320,
+            0
+        ]
+    },
+    "AdPortal": {
+        "offset": [
+            2336,
+            0
+        ]
+    },
+    "UIGridLayout": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "TorsionSpringConstraint": {
+        "offset": [
+            2000,
+            0
+        ]
+    },
+    "ChatWindowConfiguration": {
+        "offset": [
+            2256,
+            0
+        ]
+    },
+    "FloorWire": {
+        "offset": [
+            64,
+            0
+        ]
+    },
+    "SpringConstraint": {
+        "offset": [
+            1456,
+            0
+        ]
+    },
+    "Fire": {
+        "offset": [
+            976,
+            0
+        ]
+    },
+    "UISizeConstraint": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "Humanoid": {
+        "offset": [
+            144,
+            0
+        ]
+    },
+    "Decal": {
+        "offset": [
+            112,
+            0
+        ]
+    },
+    "SpecialMesh": {
+        "offset": [
+            128,
+            0
+        ]
+    },
+    "WeldConstraint": {
+        "offset": [
+            1504,
+            0
+        ]
+    },
+    "PoseBase": {
+        "offset": [
+            960,
+            0
+        ]
+    },
+    "Weld": {
+        "offset": [
+            544,
+            0
+        ]
+    },
+    "TextBox": {
+        "offset": [
+            816,
+            0
+        ]
+    },
+    "Pose": {
+        "offset": [
+            960,
+            0
+        ]
+    },
+    "Terrain": {
+        "offset": [
+            1040,
+            0
+        ]
+    },
+    "Flag": {
+        "offset": [
+            608,
+            0
+        ]
+    },
+    "UICorner": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "AlignPosition": {
+        "offset": [
+            1584,
+            0
+        ]
+    },
+    "HingeConstraint": {
+        "offset": [
+            1392,
+            0
+        ]
+    },
+    "SurfaceLight": {
+        "offset": [
+            208,
+            0
+        ]
+    },
+    "Player": {
+        "offset": [
+            192,
+            0
+        ]
+    },
+    "UIGradient": {
+        "offset": [
+            416,
+            0
+        ]
+    },
+    "PathfindingLink": {
+        "offset": [
+            2192,
+            0
+        ]
+    },
+    "ScrollingFrame": {
+        "offset": [
+            768,
+            0
+        ]
+    }
+}
